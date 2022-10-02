@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['2349066967525']
-global.OwnerNumber = ['2349066967525']
-global.ownertag = ['2349066967525']
+global.Owner = ['2348074011898']
+global.OwnerNumber = ['2348074011898']
+global.ownertag = ['234807011898']
 global.BotName = "RUKEV"
 global.packname = "RUKEV BOT"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.author = "By: Rukev"
+global.OwnerName = "Rukev"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
@@ -60,8 +60,8 @@ global.ntilink = []
 global.mess = {
     jobdone: 'Job done...',
     useradmin: 'Sorry, only *Group Admins* can use this command *WAKA*!',
-    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
+    botadmin: 'With due respect can you make Rukev bot admin, i cant execute this command without being an *Admin* of this group.',
+    botowner: 'Only my *Owner* can use this command, Ur father!',
     grouponly: 'This command is only made for *Groups*, WAKA!',
     privateonly: 'This command is only made for *Private Chat*, WAKA!',
     botonly: 'Only the *Bot itself* can use this command!',
@@ -69,7 +69,7 @@ global.mess = {
     nolink: 'Please provide me *link*, UR FATHER!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands God punish you!',
-    bangc: 'This Group is *Banned* from using Commands!',
+    bangc: 'This Group is *Banned* from using Commands God punish una!',
     nonsfw: 'Dont be a pervert IDIOT! This is not a NSFW enabled group!'
     
 }
